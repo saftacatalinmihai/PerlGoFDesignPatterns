@@ -1,2 +1,2 @@
 # PerlGoFDesignPatterns
-Design Patterns from the Gang of Four book on Design Patterns
+Design Patterns from the Gang of Four book.
